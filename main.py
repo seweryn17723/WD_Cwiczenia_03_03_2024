@@ -243,4 +243,4 @@ while licznik < len(lista):
         break
     licznik += 1
 else:
-    print('licznik')
+    print('liczba podana nie jest z listy')
